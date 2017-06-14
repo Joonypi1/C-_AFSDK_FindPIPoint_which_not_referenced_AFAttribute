@@ -1,0 +1,16 @@
+C:\Users\jhim\Desktop\VisualStudioProjects\2017\C#_AFSDK_FindAFAttribute\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\jhim\Desktop\VisualStudioProjects\2017\C#_AFSDK_FindAFAttribute\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\jhim\Desktop\VisualStudioProjects\2017\C#_AFSDK_FindAFAttribute\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\jhim\Desktop\VisualStudioProjects\2017\C#_AFSDK_FindAFAttribute\ConsoleApp1\ConsoleApp1\bin\Debug\OSIsoft.AFSDK.dll
+C:\Users\jhim\Desktop\VisualStudioProjects\2017\C#_AFSDK_FindAFAttribute\ConsoleApp1\ConsoleApp1\bin\Debug\OSIsoft.AFSDK.xml
+C:\Users\jhim\Desktop\VisualStudioProjects\2017\C#_AFSDK_FindAFAttribute\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\jhim\Desktop\VisualStudioProjects\2017\C#_AFSDK_FindAFAttribute\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\jhim\Desktop\VisualStudioProjects\2017\C#_AFSDK_FindAFAttribute\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\jhim\Desktop\VisualStudioProjects\2017\C#_AFSDK_FindPIPoint_which_not_referenced_AFAttribute\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\jhim\Desktop\VisualStudioProjects\2017\C#_AFSDK_FindPIPoint_which_not_referenced_AFAttribute\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\jhim\Desktop\VisualStudioProjects\2017\C#_AFSDK_FindPIPoint_which_not_referenced_AFAttribute\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\jhim\Desktop\VisualStudioProjects\2017\C#_AFSDK_FindPIPoint_which_not_referenced_AFAttribute\ConsoleApp1\ConsoleApp1\bin\Debug\OSIsoft.AFSDK.dll
+C:\Users\jhim\Desktop\VisualStudioProjects\2017\C#_AFSDK_FindPIPoint_which_not_referenced_AFAttribute\ConsoleApp1\ConsoleApp1\bin\Debug\OSIsoft.AFSDK.xml
+C:\Users\jhim\Desktop\VisualStudioProjects\2017\C#_AFSDK_FindPIPoint_which_not_referenced_AFAttribute\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\jhim\Desktop\VisualStudioProjects\2017\C#_AFSDK_FindPIPoint_which_not_referenced_AFAttribute\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\jhim\Desktop\VisualStudioProjects\2017\C#_AFSDK_FindPIPoint_which_not_referenced_AFAttribute\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
